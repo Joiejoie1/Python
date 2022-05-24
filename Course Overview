@@ -3,5 +3,6 @@ Overarching Diagram Showing Major Topics of this Course
 A flowchart showing the relationship between the main topics covered in this course
 In this course, you will first learn how to write basic Python statements using building blocks like the print statement, variables, and different data types. You will then look into ways to group and order data types into different data structures. With an understanding of how data is structured and organized in programming, you will then control the flow of your code with conditionals, loops, and functions. Then, in the Scripting lesson, you will combine all the concepts you’ve learned and write and run code in your local environment. Lastly, you will learn to apply Python to Data Science, using some pre-built collections of code, or packages. These include NumPy, a package for efficient scientific computation, and pandas, a popular data science package for manipulating data that’s built on top of NumPy.
 
+
 Let's dive right in!
 
